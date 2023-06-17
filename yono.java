@@ -38,7 +38,7 @@
 	  public static void main(String[] args) {
 
 		      // year to be checked
-		      //     int year = 1900;
+		      //     int year = 1800;
 		      //         boolean leap = false;
 		      //
 		      //             // if the year is divided by 4
